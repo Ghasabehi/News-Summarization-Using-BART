@@ -1,0 +1,50 @@
+Title 1: How one nonprofit is working to build support for solar — and added benefits for communities — in rural North Carolina
+Summary:
+The Center for Energy Education works to maximize the benefits of large solar farms in rural America. Mozine Lowe, who grew up about five miles from where she now works, had graduated from Greensboro’s North Carolina Agricultural and Technical State University. The Center conducts educational programs for children of all ages, who come in by the busload from surrounding schools. Through collaborations with local educational institutions like community colleges, the center has also helped to train a new workforce in jobs that pay roughly twice what workers are earning at the fast-food chains off Interstate 95.
+
+--------------------------------------------------------------------------------
+Title 2: Ameren Missouri brings 500 MW of new solar online
+Summary:
+500 megawatts of new solar generation are now online and serving customers. In 2027, an 800-MW simple-cycle natural gas energy center is expected to be ready to serve as a backup source of energy. The Castle Bluff Energy Center represents an investment of approximately $900 million, and its proposed site previously hosted the coal-fired Meramec Energy Center, which Ameren closed in 2022. The utility owns the property and already has existing infrastructure and transmission line access, reducing the construction costs.
+
+--------------------------------------------------------------------------------
+Title 3: Flamanville 3 Reactor Online in France After 12-Year Delay
+Summary:
+France’s state-run energy operator EDF has integrated the Flamanville 3 nuclear reactor into its national power grid. The reactor was connected at 11:48am on 21 December 2024, after rigorous tests and inspections, allowing the production of 100MW of electricity. The project faced a 12-year delay and costs escalated to approximately €13bn ($13.5bn), which is four times the initial budget. It is the first development since the last grid addition with Civaux 2 in 1999. EDF plans to construct six additional reactors, fulfilling a commitment made by President Emmanuel Macron in 2022.
+
+--------------------------------------------------------------------------------
+Title 4: Eos and FlexGen partnering on first US-made long duration storage solution
+Summary:
+Eos and FlexGen plan to develop and commercialise a comprehensive, integrated US BESS solution. This solution will combine Eos’ Z3 zinc-based long duration energy storage (LDES) systems, a US inverter and transformer package, with Flexgen’s HybridOS EMS. Eos also secured a 400MWh standalone storage order with International Electric Power (IEP), which will be deployed at Haybarn Energy Reliability Centre, located at Marine Corps Base Camp Pendleton.
+
+--------------------------------------------------------------------------------
+Title 5: Bankability, procurement, patents and optimisation: Energy-Storage.news Guest Blog picks from 2024
+Summary:
+The final edition of Solar Media’s journal PV Tech Power, Volume 37, was published in January. It features the dedicated section ‘Storage & Smart Power’ from the team at Energy-Storage.news. As the year progressed, many interesting topics came into focus: long-duration, market reforms, insurance, procurement, and more. We look forward to another year of exciting content, and most of all, we’d like to thank our readers and subscribers for making it all possible.
+
+--------------------------------------------------------------------------------
+Title 6: Houston to host key hydrogen summit as industry faces new political landscape
+Summary:
+Jorge Batarce, Global Hydrogen lead at ABB Energy Industries discusses how Green Hydrogen is cutting across sectors and evolving as per the user needs. ABB is firmly committed to helping accelerate and enable the hydrogen market and believes that it has potential to play a key role in the energy transition. The ambition is there, with manufacturers announcing plans to expand to 155 GW per year[1] of manufacturing capacity by 2030, an 11-fold increase from the approximate 14 GW available today.
+
+--------------------------------------------------------------------------------
+Title 7: Editor’s picks: Energy-Storage.news webinars of 2024
+Summary:
+The final edition of Solar Media’s journal PV Tech Power, Volume 37, was published in January. It features the dedicated section ‘Storage & Smart Power’ from the team at Energy-Storage.news. As the year progressed, many interesting topics came into focus: long-duration, market reforms, insurance, procurement, and more. We look forward to another year of exciting content, and most of all, we’d like to thank our readers and subscribers for making it all possible.
+
+--------------------------------------------------------------------------------
+Title 8: Biggest projects in the energy storage industry in 2024
+Summary:
+Largest lithium-ion battery storage projects are being built and brought online. Two of the biggest projects on this list are both solar-plus-storage hybrid resources. The bankruptcy of flow battery maker Redflow and the cancelling of the world’s biggest pumped hydro project in Queensland, Australia, show that it can be challenging to channel private investment and political will for high Capex technologies. LFP price falls ‘make first life batteries more attractive’ than second life ones, Finland-based BESS solutions firm Cactos said.
+
+--------------------------------------------------------------------------------
+Title 9: Energy-Storage.news’ most-read news stories of 2024
+Summary:
+The final edition of Solar Media’s journal PV Tech Power, Volume 37, was published in January. It features the dedicated section ‘Storage & Smart Power’ from the team at Energy-Storage.news. As the year progressed, many interesting topics came into focus: long-duration, market reforms, insurance, procurement, and more. We look forward to another year of exciting content, and most of all, we’d like to thank our readers and subscribers for making it all possible.
+
+--------------------------------------------------------------------------------
+Title 10: Energy-Storage.news’ most-read news stories of 2024
+Summary:
+Connecticut’s public utility and energy policy regulator has selected 518MW of solar PV and a 200MW energy storage project through competitive solicitations. Oregon Public Utility Commission (OPUC) has invited utility Portland General Electric (PGE) to apply for recovery of the costs of investing in a large-scale BESS facility. The US Department of Energy (DOE) has made a US$2.6 million grant award to flow battery startup Quino Energy for a demonstration project.
+
+--------------------------------------------------------------------------------
